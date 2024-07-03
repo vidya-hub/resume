@@ -1,14 +1,30 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
 - project: LiveLynk
-  role: Founder & Primary Developer
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/vidya-hub/livelynk/blob/main/README.md"
+  description: LiveLynk is a Flutter-based cross-platform app for seamless user connections via invites. It employs Provider for state management and integrates Node.js, Express.js, and MongoDB for backend operations with real-time communication using Sockets and WebRTC. The ongoing development includes adding a video calling feature to enhance user interaction.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: OTP-Input-Editor
+  url: "http://pub.dev/packages/otp_input_editor"
+  description: Developed a customizable OTP input field package for Flutter, providing advanced editing capabilities for users. Enabled editing from any position within the OTP text fields, offering clear and hide OTP features for enhanced flexibility and user control.
+
+# Springfield Community Outreach Group
+- project: API-DASH
+  url: "https://github.com/foss42/apidash"
+  description: Contributed to the development of API-DASH, an Open-Source cross-platform API Client built using Flutter. Implemented Form-Data and multi-part request-sending feature in Merged Pull Request #101.
+  
+# jazznotes.io
+- project: Resume-Builder
+  url: "https://play.google.com/store/apps/details?id=com.tekpillar.resumeapp"
+  description: Collaborated on the design and implementation of the Flutter-based front end for dynamic resume generation. Developed RESTful APIs using Node.js to handle resume data and template requests.
+
+# Springfield Community Outreach Group
+- project: Open-Google-Translator
+  url: "http://npmjs.com/package/open-google-translator"
+  description: Created a free, open-source NPM package leveraging Google Translator API for seamless translation across 104 languages.
+
+# jazznotes.io
+- project: PDF-GPT
+  url: "https://www.linkedin.com/posts/vidya-sagar-129b17130_flutter-python-flask-activity-7071134270831935488-izWt?utm_source=share&utm_medium=member_desktop"
+  description: Built a mobile app using Flutter, Python, Flask, and LangChain for intelligent, context-aware responses to user queries. Utilized PDF content to deliver insightful, accurate responses, improving user experience and satisfaction.
